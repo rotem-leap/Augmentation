@@ -1,0 +1,3 @@
+(pizza %|ravioli|pasta);<<italian_food>>
+(<<syn_customer_support>> )?<10,5>(rep ~10|representative ~100|csr ~3|agent ~100);<<syn_agent>>
+(customer support|customer care|support);<<syn_customer_support>>
